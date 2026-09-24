@@ -1,3 +1,4 @@
+# Project 2 - MOSFET Voltage-Controlled Switches
 ## Overview
 
 This project explores the design and testing of two MOSFET-based voltage-controlled switches using a single 5 V supply. LTspice simulations and Analog Discovery 3 measurements are used to investigate practical switching behavior and compare it with ideal-switch requirements.
