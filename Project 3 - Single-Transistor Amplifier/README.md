@@ -17,4 +17,6 @@ The project compares calculated, simulated, and measured gain, with particular a
 
 ## Video Report
 
-The accompanying video report presents the transistor and topology choices, component calculations, simulation setup and results, physical circuit connections, and measured waveforms. It also compares expected and measured performance and demonstrates linearity at a 0.5 V input amplitude.
+[Watch the video report on YouTube](https://www.youtube.com/watch?v=XB7dzbdB1lw)
+
+The video report presents the transistor and topology choices, component calculations, simulation setup and results, physical circuit connections, and measured waveforms. It also compares expected and measured performance and demonstrates linearity at a 0.5 V input amplitude.
