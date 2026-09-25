@@ -1,4 +1,4 @@
-# Project 3 - MOSFET-Based XOR Gate
+# Project 4 - MOSFET-Based XOR Gate
 
 ## Overview
 
